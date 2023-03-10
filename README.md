@@ -4,14 +4,13 @@ This repository contains a Python script for creating a web app using Streamlit 
 
 ## Requirements
 The following packages are required to run the code:
-
-pandas
-PIL
-streamlit
-webbrowser
-streamlit_option_menu
-plotly
-sqlalchemy
+- pandas
+- PIL
+- streamlit
+- webbrowser
+- streamlit_option_menu
+- plotly
+- sqlalchemy
 
 ## What is Phonepe Pulse?
 
@@ -43,9 +42,9 @@ The DASHBORD section displays various visualizations of transaction and user dat
 
 ## Data Source
 The script reads data from a MySQL database called 'Phonepe_Pulse'. The following tables are used:
-aggregated_transactions
-aggregated_user
-map_transaction
-map_user
-top_transaction
-top_user
+- aggregated_transactions
+- aggregated_user
+- map_transaction
+- map_user
+- top_transaction
+- top_user
