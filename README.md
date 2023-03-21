@@ -38,7 +38,7 @@ The choropleth map shows the total transaction count or amount for each state in
 The app also displays various insights related to the selected data. For example, it displays the total transaction count or amount for all states, the total transaction count, and the amount for each category of transaction. The app also uses CSS styling to improve the appearance of the visualizations and insights.
 
 ### DASHBORD
-The DASHBORD section displays various visualizations of transaction and user data.The dashboard function displays insights into the aggregated transaction data and aggregated user data. It allows the user to select a year and quarter and then displays the data for that time period. The user can choose between different types of charts, including bar charts, scatter plots, and pie charts.
+The DASHBORD section displays various visualizations of transaction and user data.The dashboard function displays insights into the transactions and user data from aggregated, Map, Top data folders. It allows the user to select a year and quarter and then displays the data for that time period. The user can choose between different types of charts, including bar charts, scatter plots, and pie charts by State.
 
 ## Data Source
 The script reads data from a MySQL database called 'Phonepe_Pulse'. The following tables are used:
