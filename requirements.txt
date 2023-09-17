@@ -5,6 +5,9 @@ flask
 Pillow
 plotly
 pandas
+json
 streamlit
 streamlit_option_menu
 sqlalchemy
+requests
+mysql.connector
