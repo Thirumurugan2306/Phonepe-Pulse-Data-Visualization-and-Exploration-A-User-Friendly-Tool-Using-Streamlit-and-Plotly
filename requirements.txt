@@ -1,7 +1,7 @@
-appdirs==1.4.4
-certifi==2021.5.30
-click==7.1.2
-flask==2.1.1
+appdirs
+certifi
+click
+flask
 Pillow
 plotly
 pandas
